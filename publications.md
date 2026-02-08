@@ -54,37 +54,37 @@ permalink: /publications/
 
 ### Conference Publications / Abstracts
 
-1. Informing Educational Outreach in Oncology: Evaluation of Dietary Consumption Patterns, Supplement Consumption and Clinical Factors in Breast Cancer Survivors (JAND conference abstract, 2025)[[DOI]](https://doi.org/10.1016/j.jand.2025.06.083)
+1. Judge, M., Xu, W., **Li, A.**, Hayley, Y., Michelle, S., & Salner, A. (2025). Informing Educational Outreach in Oncology: Evaluation of Dietary Consumption Patterns, Supplement Consumption and Clinical Factors in Breast Cancer Survivors. *Journal of the Academy of Nutrition and Dietetics, 125*(10), A27. [[DOI]](https://doi.org/10.1016/j.jand.2025.06.083)
 
 1. Zhao, T., **Li, A.**, Graziano, T., Chen, M. H., Matson, A., & Cong, X. (2025).
-  *Racial Disparity in the Association between Early Life Pain/Stress Exposure and Neurodevelopmental Outcomes among Black and White Preterm Infants.*
-  ENRS’ 37th Annual Scientific Sessions (Philadelphia, PA).
+   Racial Disparity in the Association between Early Life Pain/Stress Exposure and Neurodevelopmental Outcomes among Black and White Preterm Infants.
+  *ENRS’ 37th Annual Scientific Sessions (Philadelphia, PA)*.
   [[Conference]](https://enrs.memberclicks.net/2025-conference)
 
 1. Wu, W., **Li, A.**, Graziano, T., Salner, A., Chen, M. H., Judge, M. P., Cong, X., & Xu, W. (2024).
-  *Chemotherapy-Related Symptoms Trajectories and the Linkage with Physical Activity and Diet in Colorectal Cancer Patients.*
-  ENRS Annual Scientific Sessions.
+   Chemotherapy-Related Symptoms Trajectories and the Linkage with Physical Activity and Diet in Colorectal Cancer Patients.
+  *ENRS Annual Scientific Sessions.*
   [[Program]](https://enrs.memberclicks.net/assets/docs/2023_Conference/2023%20ENRS%20Conference%20Program_vFinal_230308.pdf)
 
 1. Oppong, A., **Li, A.**, Graziano, T., & Yang, G. S. (2024, April).
-  *Symptom Burdens and Social Factors in Older Cancer Survivors Receiving Immunotherapy: Insights from the NIH All of Us Research Program.*
-  Oncology Nursing Society (ONS) Congress (Poster abstract).
+   Symptom Burdens and Social Factors in Older Cancer Survivors Receiving Immunotherapy: Insights from the NIH All of Us Research Program.
+  *Oncology Nursing Society (ONS) Congress* (Poster abstract).
   [[Abstracts]](https://ons.confex.com/ons/2024/meetingapp.cgi/Paper/15509)
 
 1. Xu, W., Elliam, W., & **Li, A.** (2024, April).
-  *Factors Associated With Pain in Cancer Survivors: An Analysis of BRFSS Data.*
-  Oncology Nursing Society (ONS) Congress (Poster abstract).
+   Factors Associated With Pain in Cancer Survivors: An Analysis of BRFSS Data.
+  *Oncology Nursing Society (ONS) Congress* (Poster abstract).
   [[Abstracts]](https://www.ovid.com/journals/ocnf/abstract/00006549-202403000-00863~factors-associated-with-pain-in-cancer-survivors--an)
 
 1. Yang, G. S., Graziano, T. A., **Li, A.**, Starkweather, A. R., Lynch Kelly, D., & Lyon, D. E. (2023, September).
-  *The Influence of Race on Differences in Psychoneurological Symptoms Among Early-Stage Breast Cancer Survivors.*
-  Council for the Advancement of Nursing Science (Virtual event).
+   The Influence of Race on Differences in Psychoneurological Symptoms Among Early-Stage Breast Cancer Survivors.
+  *Council for the Advancement of Nursing Science* (Virtual event).
   [[CANS]](https://aannet.org/page/cans)
 
 1. **Li, A.**, & Graziano, T. (2023, April).
-  *Association of Social Determinants of Health and COVID-19-Related Behaviors with Cervical Cancer Screening in Hispanic Women.*
-  Oncology Nursing Society (ONS) Congress (Poster abstract).
+   Association of Social Determinants of Health and COVID-19-Related Behaviors with Cervical Cancer Screening in Hispanic Women.
+  *Oncology Nursing Society (ONS) Congress* (Poster abstract).
   [[Abstracts]](https://www.proquest.com/openview/47670243e837e114d65ef2a089a6fc84/1?pq-origsite=gscholar&cbl=37213)
 
-1. Chen, M. H., Lewis, P., Milkey, A., Wang, Y. B., **Li, A.**, & Kuo, L. (2023). *Data from: LoRaD: Marginal likelihood estimation with haste (but no waste).*
+1. Chen, M. H., Lewis, P., Milkey, A., Wang, Y. B., **Li, A.**, & Kuo, L. (2023). Data from: LoRaD: Marginal likelihood estimation with haste (but no waste).
    [[DOI]](https://doi.org/10.5061/dryad.pg4f4qrrw)
