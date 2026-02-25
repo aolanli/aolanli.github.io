@@ -10,7 +10,7 @@ permalink: /publications/
 
 1. Graziano, T. A., **Li, A.**, Oppong, A. F., Cousin, L., Kelly, D. L., Starkweather, A., & Lyon, D. E. (2026). Racial disparities in psychoneurological symptoms and health-promoting behaviors among breast cancer survivors: A two-year longitudinal study. *Oncology Nursing Forum, 53*(1), 1-15. [[DOI]](https://doi.org/10.1188/26.ONF.e26535244)
 
-1. Zhao, T., **Li, A.**, Wu, W., Chen, J., Combellick, J., Chen, M. H., & Cong, X. (2025). Maternal racial differences and socioeconomic status in preterm infant neurodevelopment, feeding, and growth. *Nursing Research*, 10-1097.
+1. Zhao, T., **Li, A.**, Wu, W., Chen, J., Combellick, J., Chen, M. H., & Cong, X. (2026). Maternal racial differences and socioeconomic status in preterm infant neurodevelopment, feeding, and growth. *Nursing Research, 75*(2), 88-95.
 [[DOI]](https://doi.org/10.1097/NNR.0000000000000878)
 
 1. Wu, W., **Li, A.**, Graziano, T. A., Salner, A., Chen, M.-H., Singh, V., Judge, M. P., Cong, X., & Xu, W. (2025). Mediating effect of self-efficacy on the relationships among patient-provider partnership, pain, and quality of life in individuals with cancer. *Oncology Nursing Forum, 52*(6), 448–459.  
