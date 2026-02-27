@@ -44,7 +44,7 @@ permalink: /publications/
 
 ### Preprints & In Press
 
-1. Wu, W., **Li, A.**, Chen, J., Zhao, T., Shabnam, L., Chen, M.H., Matson, A. and Cong, X.. The Longitudinal Impact of Early Relational Contact in the NICU and the Post-discharge Childcare Quality on Preterm Infants’ Behavioral Development Up to 18-24 Months of Corrected Age. *Infant and Child Development* (In Press).
+1. Wu, W., **Li, A.**, Chen, J., Zhao, T., Shabnam, L., Chen, M.H., Matson, A. and Cong, X. (In Press). The Longitudinal Impact of Early Relational Contact in the NICU and the Post-discharge Childcare Quality on Preterm Infants’ Behavioral Development Up to 18-24 Months of Corrected Age. *Infant and Child Development*.
 
 1. Chen, J., **Li, A.**, Wu, W., Xu, W., Zhao, T., Starkweather, A. R., … & Cong, X. S. (2025). Machine learning to phenotype pain and predict response to pain interventions among young adults with irritable bowel syndrome. *medRxiv*.  
 [[DOI]](https://doi.org/10.1101/2025.10.07.25337516)
