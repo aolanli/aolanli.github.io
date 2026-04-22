@@ -31,7 +31,7 @@ permalink: /publications/
 [[DOI]](https://doi.org/10.3389/fped.2025.1523952)
 
 1. McNaboe, R. Q., Kong, Y., Henderson, W. A., Cong, X., **Li, A.**, Seo, M. H., … & Posada-Quintero, H. F. (2025). Optimizing sensor locations for electrodermal activity monitoring using a wearable belt system. *Journal of Sensor and Actuator Networks, 14*(2), 31.  
-[[Journal]](https://www.mdpi.com/2224-2708/14/2/31)
+[[DOI]](https://www.mdpi.com/2224-2708/14/2/31)
 
 1. Xu, W., **Li, A.**, Yackel, H. D., Sarta, M. L., Salner, A., & Judge, M. P. (2024). Dietary consumption patterns in breast cancer survivors: Pilot evaluation of diet, supplements and clinical factors. *European Journal of Oncology Nursing, 70*, 102678.  
 [[DOI]](https://doi.org/10.1016/j.ejon.2024.102678)
