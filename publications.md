@@ -46,7 +46,7 @@ permalink: /publications/
 
 ### Preprints & In Press
 
-1. Zhao, T., **Li, A.**, Chen, M. H., Matson, A., & Cong, X. S. (accepted). Early-life painful and stressful exposures and neurodevelopment in preterm infants. *Frontiers in Pediatrics*.
+1. Zhao, T., **Li, A.**, Chen, M. H., Matson, A., & Cong, X. S. (In Press). Early-life painful and stressful exposures and neurodevelopment in preterm infants. *Frontiers in Pediatrics*.
 
 1. Chen, J., **Li, A.**, Wu, W., Xu, W., Zhao, T., Starkweather, A. R., … & Cong, X. S. (2025). Machine learning to phenotype pain and predict response to pain interventions among young adults with irritable bowel syndrome. *medRxiv*.  
 [[DOI]](https://doi.org/10.1101/2025.10.07.25337516)
