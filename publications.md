@@ -6,7 +6,9 @@ permalink: /publications/
 
 ### Journal Articles
 
-1. Wu, W., **Li, A.**, Zhao, T., Chen, J., Lainwara S., Matson, A. P.,  Chen, M.H. and Cong, X. (2026). The Longitudinal Impact of Early Relational Contact in the NICU and the Post-discharge Childcare Quality on Preterm Infants’ Behavioral Development Up to 18-24 Months of Corrected Age. *Infant and Child Development 35*(2), e70090. [[DOI]](https://doi-org.yale.idm.oclc.org/10.1002/icd.70090)
+1. Zhao, T., **Li, A.**, Chen, M. H., Matson, A., & Cong, X. S. (2026). Early-life painful and stressful exposures and neurodevelopment in preterm infants. *Frontiers in Pediatrics 14*, 1820878. [[DOI]](https://doi.org/10.3389/fped.2026.1820878)
+
+1. Wu, W., **Li, A.**, Zhao, T., Chen, J., Lainwara S., Matson, A. P.,  Chen, M.H. and Cong, X. (2026). The longitudinal impact of early relational contact in the NICU and the post-discharge childcare quality on preterm infants’ behavioral development up to 18-24 months of corrected age. *Infant and Child Development 35*(2), e70090. [[DOI]](https://doi-org.yale.idm.oclc.org/10.1002/icd.70090)
 
 1. **Li, A.**, Liu, P. Y., Wang, Y. B., Milkey, A., Lewis, P. O. & Chen, M. H. (2026). Comparison of Monte Carlo based marginal likelihood estimators. *Wiley Interdisciplinary Reviews: Computational Statistics 18*(1), e70058. [[DOI]](https://wires.onlinelibrary.wiley.com/doi/10.1002/wics.70058)
 
@@ -45,8 +47,6 @@ permalink: /publications/
 ---
 
 ### Preprints & In Press
-
-1. Zhao, T., **Li, A.**, Chen, M. H., Matson, A., & Cong, X. S. (In Press). Early-life painful and stressful exposures and neurodevelopment in preterm infants. *Frontiers in Pediatrics*.
 
 1. Chen, J., **Li, A.**, Wu, W., Xu, W., Zhao, T., Starkweather, A. R., … & Cong, X. S. (2025). Machine learning to phenotype pain and predict response to pain interventions among young adults with irritable bowel syndrome. *medRxiv*.  
 [[DOI]](https://doi.org/10.1101/2025.10.07.25337516)
