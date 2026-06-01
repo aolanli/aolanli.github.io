@@ -48,6 +48,9 @@ permalink: /publications/
 
 ### Preprints & In Press
 
+1. 1. Chen, J., **Li, A.**, Wu, W., Xu, W., Zhao, T., Starkweather, A. R., Rodriguez, L., Chen, M. H., & Cong, X. S. (2026). Gut microbiota signatures differentiate trajectory-defined response phenotypes and predict self-management outcomes in irritable bowel syndrome. *medRxiv*.  
+[[DOI]](https://doi.org/10.64898/2026.05.18.26353470)
+
 1. Chen, J., **Li, A.**, Wu, W., Xu, W., Zhao, T., Starkweather, A. R., … & Cong, X. S. (2025). Machine learning to phenotype pain and predict response to pain interventions among young adults with irritable bowel syndrome. *medRxiv*.  
 [[DOI]](https://doi.org/10.1101/2025.10.07.25337516)
 
