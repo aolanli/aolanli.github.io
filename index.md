@@ -35,13 +35,11 @@ multi-omics applications.
   <article class="work-item">
     <div class="work-meta">BAYESIAN COMPUTATION</div>
     <h3>A comparison of Monte Carlo based marginal likelihood estimators</h3>
-    <p>A comparative review of computational strategies for Bayesian model evidence and model comparison.</p>
     <a href="https://doi.org/10.1002/wics.70058">Read the paper →</a>
   </article>
   <article class="work-item">
     <div class="work-meta">BAYESIAN COMPUTATION</div>
     <h3>LoRaD: Marginal likelihood estimation with haste (but no waste)</h3>
-    <p>A collaborative contribution to efficient marginal-likelihood estimation, with openly archived supporting data.</p>
     <a href="https://doi.org/10.1093/sysbio/syad007">Paper</a>
     <span aria-hidden="true"> · </span>
     <a href="https://doi.org/10.5061/dryad.pg4f4qrrw">Data</a>
@@ -49,7 +47,6 @@ multi-omics applications.
   <article class="work-item">
     <div class="work-meta">LONGITUDINAL ANALYSIS</div>
     <h3>Sex differences in mothers' own milk and neurodevelopmental outcomes in preterm infants</h3>
-    <p>A longitudinal analysis of mothers' own milk exposure and neurodevelopmental outcomes among preterm infants.</p>
     <a href="https://doi.org/10.3389/fped.2025.1523952">Read the paper →</a>
   </article>
 </div>
