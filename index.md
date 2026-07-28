@@ -31,8 +31,6 @@ multi-omics applications.
 
 <p class="section-kicker">SELECTED WORK</p>
 
-## Representative contributions
-
 <div class="work-list">
   <article class="work-item">
     <div class="work-meta">BAYESIAN COMPUTATION</div>
@@ -52,7 +50,7 @@ multi-omics applications.
     <div class="work-meta">LONGITUDINAL ANALYSIS</div>
     <h3>Sex differences in mothers' own milk and neurodevelopmental outcomes in preterm infants</h3>
     <p>A longitudinal analysis of mothers' own milk exposure and neurodevelopmental outcomes among preterm infants.</p>
-    <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=Ll702C4AAAAJ&amp;citation_for_view=Ll702C4AAAAJ:Y0pCki6q_DkC">View on Google Scholar →</a>
+    <a href="https://doi.org/10.3389/fped.2025.1523952">Read the paper →</a>
   </article>
 </div>
 
@@ -72,7 +70,7 @@ multi-omics applications.
     <div>
       <h3>Program Administrator</h3>
       <p class="affiliation">Yale University School of Nursing</p>
-      <p>Collaborative biostatistical work across NIH-funded studies in neurodevelopment, microbiome science, and symptom research.</p>
+      <p>Biostatistical lead across NIH-funded studies in neurodevelopment, microbiome science, and symptom research.</p>
     </div>
   </article>
   <article class="timeline-item">
