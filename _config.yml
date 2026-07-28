@@ -1,8 +1,22 @@
 title: Aolan Li
-description: This is the website of Aolan Li, Yale School of Nursing, Orange, CT. USA.
+description: Aolan Li is a statistician and quantitative researcher specializing in Bayesian computation, longitudinal and multivariate methods, and biomedical data science.
+url: https://aolanli.github.io
+lang: en
+author: Aolan Li
+email: aolan.li@yale.edu
 theme: minima
 
 header_pages:
-  - index.md
+  - research.md
   - publications.md
+  - cv.html
   - contact.md
+
+exclude:
+  - AGENTS.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - Aolan_Li_CV.tex
+  - WebsiteCV20260423.pdf
+  - vendor

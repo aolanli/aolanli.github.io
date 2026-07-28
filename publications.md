@@ -4,57 +4,68 @@ title: Publications
 permalink: /publications/
 ---
 
+<p class="page-intro">
+Peer-reviewed articles, accepted work, preprints, conference publications, and
+open research data.
+</p>
+
+<p class="publication-updated">Last updated July 28, 2026.</p>
+
+### Accepted
+
+1. <span class="status-badge">Accepted</span> Chen, J., **Li, A.**, Wu, W., Xu, W., Zhao, T., Starkweather, A. R., Rodriguez, L., Chen, M. H., & Cong, X. S. (2026). Gut microbiota signatures differentiate trajectory-defined response phenotypes and predict self-management outcomes in irritable bowel syndrome. *Frontiers in Microbiomes*.<br>
+[[Publisher record]](https://www.frontiersin.org/journals/microbiomes/articles/10.3389/frmbi.2026.1884540/abstract) [[Preprint]](https://doi.org/10.64898/2026.05.18.26353470)
+
+---
+
 ### Journal Articles
 
 1. Zhao, T., **Li, A.**, Chen, M. H., Matson, A., & Cong, X. S. (2026). Early-life painful and stressful exposures and neurodevelopment in preterm infants. *Frontiers in Pediatrics 14*, 1820878. [[DOI]](https://doi.org/10.3389/fped.2026.1820878)
 
-1. Wu, W., **Li, A.**, Zhao, T., Chen, J., Lainwara S., Matson, A. P.,  Chen, M.H. and Cong, X. (2026). The longitudinal impact of early relational contact in the NICU and the post-discharge childcare quality on preterm infants’ behavioral development up to 18-24 months of corrected age. *Infant and Child Development 35*(2), e70090. [[DOI]](https://doi-org.yale.idm.oclc.org/10.1002/icd.70090)
+1. Wu, W., **Li, A.**, Zhao, T., Chen, J., Lainwara S., Matson, A. P.,  Chen, M.H. and Cong, X. (2026). The longitudinal impact of early relational contact in the NICU and the post-discharge childcare quality on preterm infants’ behavioural development up to 18–24 months of corrected age. *Infant and Child Development 35*(2), e70090. [[DOI]](https://doi.org/10.1002/icd.70090)
 
-1. **Li, A.**, Liu, P. Y., Wang, Y. B., Milkey, A., Lewis, P. O. & Chen, M. H. (2026). Comparison of Monte Carlo based marginal likelihood estimators. *Wiley Interdisciplinary Reviews: Computational Statistics 18*(1), e70058. [[DOI]](https://wires.onlinelibrary.wiley.com/doi/10.1002/wics.70058)
+1. **Li, A.**, Liu, P. Y., Wang, Y. B., Milkey, A., Lewis, P. O. & Chen, M. H. (2026). A comparison of Monte Carlo based marginal likelihood estimators. *Wiley Interdisciplinary Reviews: Computational Statistics 18*(1), e70058. [[DOI]](https://doi.org/10.1002/wics.70058)
 
 1. Graziano, T. A., **Li, A.**, Oppong, A. F., Cousin, L., Kelly, D. L., Starkweather, A., & Lyon, D. E. (2026). Racial disparities in psychoneurological symptoms and health-promoting behaviors among breast cancer survivors: A two-year longitudinal study. *Oncology Nursing Forum, 53*(1), 1-15. [[DOI]](https://doi.org/10.1188/26.ONF.e26535244)
 
 1. Zhao, T., **Li, A.**, Wu, W., Chen, J., Combellick, J., Chen, M. H., & Cong, X. (2026). Maternal racial differences and socioeconomic status in preterm infant neurodevelopment, feeding, and growth. *Nursing Research, 75*(2), 88-95.
 [[DOI]](https://doi.org/10.1097/NNR.0000000000000878)
 
-1. Wu, W., **Li, A.**, Graziano, T. A., Salner, A., Chen, M.-H., Singh, V., Judge, M. P., Cong, X., & Xu, W. (2025). Mediating effect of self-efficacy on the relationships among patient-provider partnership, pain, and quality of life in individuals with cancer. *Oncology Nursing Forum, 52*(6), 448–459.  
+1. Wu, W., **Li, A.**, Graziano, T. A., Salner, A., Chen, M.-H., Singh, V., Judge, M. P., Cong, X., & Xu, W. (2025). Mediating effect of self-efficacy on the relationships among patient-provider partnership, pain, and quality of life in individuals with cancer. *Oncology Nursing Forum, 52*(6), 448–459.<br>
 [[DOI]](https://doi.org/10.1188/25.ONF.448-459)
 
-1. Wu, W., Wang, W., **Li, A.**, Chen, J., Lainwala, S., Matson, A. P., Chen, M.-H., Li, J., & Cong, X. (2025). Neonatal pain experience and pain sensitivity trajectories in preterm infants: A longitudinal study of flexion withdrawal reflex thresholds over the first two years of age. *The Journal of Pain, 37*, 105558.  
+1. Wu, W., Wang, W., **Li, A.**, Chen, J., Lainwala, S., Matson, A. P., Chen, M.-H., Li, J., & Cong, X. (2025). Neonatal pain experience and pain sensitivity trajectories in preterm infants: A longitudinal study of flexion withdrawal reflex thresholds over the first two years of age. *The Journal of Pain, 37*, 105558.<br>
 [[DOI]](https://doi.org/10.1016/j.jpain.2025.105558)
 
-1. Wu, W., Chen, J., **Li, A.**, Chen, M. H., Starkweather, A., & Cong, X. (2025). Mechanistic insights into a self-management intervention in young adults with irritable bowel syndrome: A pilot multi-omics study. *Biomedicines, 13*(9), 2102.  
+1. Wu, W., Chen, J., **Li, A.**, Chen, M. H., Starkweather, A., & Cong, X. (2025). Mechanistic insights into a self-management intervention in young adults with irritable bowel syndrome: A pilot multi-omics study. *Biomedicines, 13*(9), 2102.<br>
 [[DOI]](https://doi.org/10.3390/biomedicines13092102)
 
-1. Wu, W., **Li, A.**, Singh, V., Salner, A., Chen, M. H., Judge, M. P., Cong, X., & Xu, W. (2025). Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer. *PLOS One, 20*(6), e0325849.  
+1. Wu, W., **Li, A.**, Singh, V., Salner, A., Chen, M. H., Judge, M. P., Cong, X., & Xu, W. (2025). Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer. *PLOS One, 20*(6), e0325849.<br>
 [[DOI]](https://doi.org/10.1371/journal.pone.0325849)
 
-1. Zhao, T., **Li, A.**, Chang, X., Xu, W., Quinn, T., Chen, J., … & Cong, X. (2025). Sex differences in mothers' own milk and neurodevelopmental outcomes in preterm infants. *Frontiers in Pediatrics, 13*, 1523952.  
+1. Zhao, T., **Li, A.**, Chang, X., Xu, W., Quinn, T., Chen, J., … & Cong, X. (2025). Sex differences in mothers' own milk and neurodevelopmental outcomes in preterm infants. *Frontiers in Pediatrics, 13*, 1523952.<br>
 [[DOI]](https://doi.org/10.3389/fped.2025.1523952)
 
-1. McNaboe, R. Q., Kong, Y., Henderson, W. A., Cong, X., **Li, A.**, Seo, M. H., … & Posada-Quintero, H. F. (2025). Optimizing sensor locations for electrodermal activity monitoring using a wearable belt system. *Journal of Sensor and Actuator Networks, 14*(2), 31.  
-[[DOI]](https://www.mdpi.com/2224-2708/14/2/31)
+1. McNaboe, R. Q., Kong, Y., Henderson, W. A., Cong, X., **Li, A.**, Seo, M. H., … & Posada-Quintero, H. F. (2025). Optimizing sensor locations for electrodermal activity monitoring using a wearable belt system. *Journal of Sensor and Actuator Networks, 14*(2), 31.<br>
+[[DOI]](https://doi.org/10.3390/jsan14020031)
 
-1. Xu, W., **Li, A.**, Yackel, H. D., Sarta, M. L., Salner, A., & Judge, M. P. (2024). Dietary consumption patterns in breast cancer survivors: Pilot evaluation of diet, supplements and clinical factors. *European Journal of Oncology Nursing, 70*, 102678.  
+1. Xu, W., **Li, A.**, Yackel, H. D., Sarta, M. L., Salner, A., & Judge, M. P. (2024). Dietary consumption patterns in breast cancer survivors: Pilot evaluation of diet, supplements and clinical factors. *European Journal of Oncology Nursing, 72*, 102678.<br>
 [[DOI]](https://doi.org/10.1016/j.ejon.2024.102678)
 
-1. Zhao, T., **Li, A.**, Reese, B., Cong, Q., Corwin, E. J., Taylor, S. N., … & Cong, X. (2024). Association between mitochondrial DNA copy number and neurodevelopmental outcomes among black and white preterm infants up to two years of age. *Interdisciplinary Nursing Research, 3*(3), 149–156.  
+1. Zhao, T., **Li, A.**, Reese, B., Cong, Q., Corwin, E. J., Taylor, S. N., … & Cong, X. (2024). Association between mitochondrial DNA copy number and neurodevelopmental outcomes among black and white preterm infants up to two years of age. *Interdisciplinary Nursing Research, 3*(3), 149–156.<br>
 [[DOI]](https://doi.org/10.1097/NR9.0000000000000071)
 
-1. Wang, Y. B., Milkey, A., **Li, A.**, Chen, M. H., Kuo, L., & Lewis, P. O. (2023). LoRaD: Marginal likelihood estimation with haste (but no waste). *Systematic Biology, 72*(3), 639–648.  
+1. Wang, Y. B., Milkey, A., **Li, A.**, Chen, M. H., Kuo, L., & Lewis, P. O. (2023). LoRaD: Marginal likelihood estimation with haste (but no waste). *Systematic Biology, 72*(3), 639–648.<br>
 [[DOI]](https://doi.org/10.1093/sysbio/syad007)
 
 ---
 
-### Preprints & In Press
+### Preprints
 
-1. Chen, J., **Li, A.**, Wu, W., Xu, W., Zhao, T., Starkweather, A. R., Rodriguez, L., Chen, M. H., & Cong, X. S. (2026). Gut microbiota signatures differentiate trajectory-defined response phenotypes and predict self-management outcomes in irritable bowel syndrome. *medRxiv*.  
-[[DOI]](https://doi.org/10.64898/2026.05.18.26353470)
-
-1. Chen, J., **Li, A.**, Wu, W., Xu, W., Zhao, T., Starkweather, A. R., … & Cong, X. S. (2025). Machine learning to phenotype pain and predict response to pain interventions among young adults with irritable bowel syndrome. *medRxiv*.  
+1. Chen, J., **Li, A.**, Wu, W., Xu, W., Zhao, T., Starkweather, A. R., … & Cong, X. S. (2025). Machine learning to phenotype pain and predict response to pain interventions among young adults with irritable bowel syndrome. *medRxiv*.<br>
 [[DOI]](https://doi.org/10.1101/2025.10.07.25337516)
 
-1. Milkey, A., Chen, M. H., Wang, Y. B., **Li, A.**, & Lewis, P. O. (2025). The sequential multispecies coalescent. *bioRxiv*.  
+1. Milkey, A., Chen, M. H., Wang, Y. B., **Li, A.**, & Lewis, P. O. (2025). The sequential multispecies coalescent. *bioRxiv*.<br>
 [[DOI]](https://doi.org/10.1101/2025.01.31.635964)
 
 ---
@@ -71,7 +82,6 @@ permalink: /publications/
 1. Wu, W., **Li, A.**, Graziano, T., Salner, A., Chen, M. H., Judge, M. P., Cong, X., & Xu, W. (2024).
    Chemotherapy-Related Symptoms Trajectories and the Linkage with Physical Activity and Diet in Colorectal Cancer Patients.
   *ENRS Annual Scientific Sessions.*
-  [[Program]](https://enrs.memberclicks.net/assets/docs/2023_Conference/2023%20ENRS%20Conference%20Program_vFinal_230308.pdf)
 
 1. Oppong, A., **Li, A.**, Graziano, T., & Yang, G. S. (2024, April).
    Symptom Burdens and Social Factors in Older Cancer Survivors Receiving Immunotherapy: Insights from the NIH All of Us Research Program.
@@ -93,7 +103,7 @@ permalink: /publications/
   *Oncology Nursing Society (ONS) Congress* (Poster abstract).
   [[Abstracts]](https://www.proquest.com/openview/47670243e837e114d65ef2a089a6fc84/1?pq-origsite=gscholar&cbl=37213)
 
-### Data Publication
+### Open Data
 
 1. Chen, M. H., Lewis, P., Milkey, A., Wang, Y. B., **Li, A.**, & Kuo, L. (2023). Data from: LoRaD: Marginal likelihood estimation with haste (but no waste).
    [[DOI]](https://doi.org/10.5061/dryad.pg4f4qrrw)

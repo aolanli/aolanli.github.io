@@ -1,0 +1,315 @@
+%-------------------------
+% Resume in Latex
+% Author : Vaishanth
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\usepackage{graphicx}%\setmainfont{Times New Roman}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+
+\RequirePackage{tikz}
+\RequirePackage{xcolor}
+
+\definecolor{cvblue}{HTML}{0E5484}
+\definecolor{black}{HTML}{130810}
+\definecolor{darkcolor}{HTML}{0F4539}
+\definecolor{cvgreen}{HTML}{3BD80D}
+\definecolor{taggreen}{HTML}{00E278}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{666666}
+\colorlet{name}{black}
+\colorlet{tagline}{darkcolor}
+\colorlet{heading}{darkcolor}
+\colorlet{headingrule}{cvblue}
+\colorlet{accent}{darkcolor}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% \usepackage[T1]{fontenc}
+% \usepackage[T1]{fontenc}
+% \usepackage{cochineal}
+% \usepackage{fourier}
+
+% \usepackage{fontspec}
+% \usepackage{polyglossia}
+% \setmainlanguage{german}
+% \setmainfont{Times New Roman}
+
+% serif
+\usepackage{CormorantGaramond}
+\usepackage{charter}
+
+% \pagestyle{fancy}
+% \fancyhf{}  % clear all header and footer fields
+% \fancyfoot{}
+% \renewcommand{\headrulewidth}{0pt}
+% \renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+\urlstyle{same}
+
+\definecolor{airforceblue}{rgb}{0.36, 0.54, 0.66}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\color{airforceblue}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+\hypersetup{
+  pdftitle={Aolan Li - Curriculum Vitae},
+  pdfauthor={Aolan Li},
+  pdfsubject={Statistics, Bayesian computation, longitudinal methods, and biomedical data science}
+}
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-1pt}}
+  }
+}
+
+\newcommand{\classesList}[4]{
+    \item\small{
+        {#1 #2 #3 #4 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{\large#1} & \textbf{\small #2} \\
+      \textit{\large#3} & \textit{\small #4} \\
+
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\educationSubheading}[4]{
+  \item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{\large #1} & \textbf{\small #2} \\
+      \textit{\large #3} & \textit{\small #4} \\[1pt]
+    \end{tabular*}\vspace{-2pt}
+}
+
+\newcommand{\educationSingleLine}[3]{
+  \item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{\large #1} & \textbf{\small #2} \quad \textit{\small #3} \\[2pt]
+    \end{tabular*}\vspace{-2pt}
+}
+
+
+\newcommand{\resumeSingleSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{\large#1} & \textbf{\small #2} \\
+
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.1in]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\newcommand{\publicationListStart}{%
+  \begin{enumerate}[
+    leftmargin=0.30in,
+    labelsep=0.08in,
+    itemsep=5pt,
+    topsep=5pt,
+    parsep=0pt,
+    partopsep=0pt
+  ]%
+}
+\newcommand{\publicationListEnd}{\end{enumerate}}
+\newcommand{\publicationItem}[1]{\item \normalsize{#1}}
+
+\newcommand\sbullet[1][.5]{\mathbin{\vcenter{\hbox{\scalebox{#1}{$\bullet$}}}}}
+
+%-------------------------------------------
+%%%%%%  CURRICULUM VITAE STARTS HERE  %%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\begin{center}
+    {\huge Aolan Li} \\ \vspace{2pt}
+    \href{mailto:aolan.li@yale.edu}{\color{blue}{aolan.li@yale.edu}} ~
+    \small{-} ~
+    \href{https://scholar.google.com/citations?user=Ll702C4AAAAJ}{\color{blue}{Google Scholar}} ~
+    \small{-} ~
+    \href{https://orcid.org/0009-0009-3525-395X}{\color{blue}{ORCID}} ~
+    \small{-} ~
+    \href{https://aolanli.github.io/}{\color{blue}{Personal Website}}
+    \vspace{-7pt}
+\end{center}
+
+\section{PROFESSIONAL SUMMARY}
+\small{Statistician and quantitative researcher with a Ph.D. in Statistics, an M.S. in Biostatistics, and prior FDA CDER ORISE experience. Expertise in Bayesian model comparison, marginal likelihood and Monte Carlo computation, simulation, clinical-trial analysis, longitudinal methods, and reproducible biomedical research.}
+\vspace{-7pt}
+
+\section{EDUCATION}
+\resumeSubHeadingListStart
+  \educationSubheading
+    {Ph.D. in Statistics, University of Connecticut}{Storrs, Connecticut, USA}
+    {Advisor: Prof. Ming-Hui Chen}{August 2020 -- August 2025}
+  \educationSingleLine
+    {M.S. in Biostatistics, University of Connecticut}{Storrs, CT}{August 2018 -- May 2020}
+  \educationSingleLine
+    {B.S. in Applied Statistics, Sun Yat-sen University (SYSU)}{Guangzhou, China}{August 2014 -- May 2018}
+\resumeSubHeadingListEnd
+\vspace{-10pt}
+
+\section{TECHNICAL EXPERTISE}
+\begin{itemize}[leftmargin=0in, label={}]
+  \small{\item{
+    \textbf{\normalsize{Bayesian \& Simulation Methods:}} \normalsize{Bayesian inference; MCMC; Bayesian model comparison; marginal likelihood estimation; Monte Carlo computation; simulation-based power evaluation; BART} \\
+    \vspace{1.2pt}
+    \textbf{\normalsize{Clinical \& Longitudinal Methods:}} \normalsize{clinical-trial design and analysis; repeated measures; LMM/GLMM/MANOVA/MMRM; longitudinal and multivariate models; covariance-structure assessment; missing data; survival analysis} \\
+    \vspace{1.2pt}
+    \textbf{\normalsize{Programming \& Reproducibility:}} \normalsize{R, Python, SAS, Stan, SQL; R Markdown, Shiny; Git; HPC/SLURM} \\
+    \vspace{1.2pt}
+    \textbf{\normalsize{Additional Methods:}} \normalsize{causal inference and mediation; SEM; regularization; tree-based machine learning; clustering; microbiome and multi-omics analysis}
+  }}
+\end{itemize}
+\vspace{-16pt}
+
+\section{PROFESSIONAL EXPERIENCE}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {Program Administrator}{}
+    {\small Yale University School of Nursing, Orange, CT, U.S.}{September 2025 -- Present}
+  \resumeItemListStart
+    \resumeItem{\normalsize{Lead biostatistical work across NIH-funded studies in neurodevelopment, microbiome science, and symptom research, partnering with investigators and clinicians to define endpoints, analysis plans, and interpretable results.}}
+    \resumeItem{\normalsize{Build reproducible R pipelines for longitudinal modeling, microbiome differential-abundance analysis, and biomarker-symptom association studies.}}
+    \resumeItem{\normalsize{Deliver publication-ready tables, figures, sensitivity analyses, and statistical methods and results for peer-reviewed and collaborative research outputs.}}
+  \resumeItemListEnd
+
+  \resumeSubheading
+    {ORISE Statistical Research Intern}{}
+    {\small U.S. Food and Drug Administration (FDA), CDER, Silver Spring, MD}{May 2023 -- August 2023}
+  \resumeItemListStart
+    \resumeItem{\normalsize{Developed Bayesian and frequentist simulation workflows for oncology clinical-trial design and analysis questions, including imaging-window impacts, treatment switching, and survival-data analysis.}}
+    \resumeItem{\normalsize{Implemented end-to-end analysis scripts with clear documentation and reproducible outputs for internal review and knowledge transfer.}}
+  \resumeItemListEnd
+
+  \resumeSubheading
+    {Graduate Assistant (Statistics, Nursing, and COR\textsuperscript{2}E)}{}
+    {\small University of Connecticut, Storrs, CT, U.S.}{August 2021 -- May 2025}
+  \resumeItemListStart
+    \resumeItem{\normalsize{Led analyses for interdisciplinary biomedical and social-science studies and produced publication-ready tables, figures, sensitivity analyses, and statistical write-ups.}}
+    \resumeItem{\normalsize{Modeled longitudinal outcomes and trajectories using LMM/GLMM and functional regression, and conducted simulation-based power studies and high-dimensional variable selection.}}
+    \resumeItem{\normalsize{Applied causal mediation, machine learning, and reproducible microbiome and multi-omics workflows to clinical and observational research questions.}}
+  \resumeItemListEnd
+\resumeSubHeadingListEnd
+\vspace{-10pt}
+
+\section{SELECTED BAYESIAN AND CLINICAL-TRIAL RESEARCH}
+\resumeItemListStart
+  \resumeItem{\normalsize{\textbf{Longitudinal model assessment:} Dissertation, \textit{Advancing Marginal Likelihoods for Longitudinal Data Analysis}, investigated marginal-likelihood decomposition for covariance-structure assessment in repeated-measures randomized controlled trials.}}
+  \resumeItem{\normalsize{\textbf{Monte Carlo methodology:} First author of a peer-reviewed comparison of Monte Carlo-based marginal likelihood estimators for Bayesian computation and model comparison.}}
+  \resumeItem{\normalsize{\textbf{Historical data and missingness:} Presented a Bayesian approach for longitudinal analysis leveraging multiple historical data sources in the presence of missing data at the 2022 Eastern Asia Chapter of the International Society for Bayesian Analysis meeting.}}
+\resumeItemListEnd
+\vspace{-10pt}
+
+\section{PEER-REVIEWED JOURNAL ARTICLES}
+\publicationListStart
+  \publicationItem{\textbf{Li, A.}, Liu, P. Y., Wang, Y. B., Milkey, A., Lewis, P. O., \& Chen, M. H. (2026). A comparison of Monte Carlo based marginal likelihood estimators. \textit{Wiley Interdisciplinary Reviews: Computational Statistics, 18}(1), e70058.}
+  \publicationItem{Zhao, T., \textbf{Li, A.}, Chen, M. H., Matson, A., \& Cong, X. S. (2026). Early-life painful and stressful exposures and neurodevelopment in preterm infants. \textit{Frontiers in Pediatrics, 14}, 1820878.}
+  \publicationItem{Wu, W., \textbf{Li, A.}, Zhao, T., Chen, J., Lainwala, S., Matson, A. P., Chen, M. H., \& Cong, X. (2026). The longitudinal impact of early relational contact in the NICU and post-discharge childcare quality on preterm infants' behavioural development up to 18--24 months of corrected age. \textit{Infant and Child Development, 35}(2), e70090.}
+  \publicationItem{Graziano, T. A., \textbf{Li, A.}, Oppong, A. F., Cousin, L., Kelly, D. L., Starkweather, A., \& Lyon, D. E. (2026). Racial disparities in psychoneurological symptoms and health-promoting behaviors among breast cancer survivors: A two-year longitudinal study. \textit{Oncology Nursing Forum, 53}(1), 1--15.}
+  \publicationItem{Zhao, T., \textbf{Li, A.}, Wu, W., Chen, J., Combellick, J., Chen, M. H., \& Cong, X. (2026). Maternal racial differences and socioeconomic status in preterm infant neurodevelopment, feeding, and growth. \textit{Nursing Research, 75}(2), 88--95.}
+  \publicationItem{Wu, W., \textbf{Li, A.}, Graziano, T. A., Salner, A., Chen, M. H., Singh, V., Judge, M. P., Cong, X., \& Xu, W. (2025). Mediating effect of self-efficacy on the relationships among patient-provider partnership, pain, and quality of life in individuals with cancer. \textit{Oncology Nursing Forum, 52}(6), 448--459.}
+  \publicationItem{Wu, W., Wang, W., \textbf{Li, A.}, Chen, J., Lainwala, S., Matson, A. P., Chen, M. H., Li, J., \& Cong, X. (2025). Neonatal pain experience and pain sensitivity trajectories in preterm infants: A longitudinal study of flexion withdrawal reflex thresholds over the first two years of age. \textit{The Journal of Pain, 37}, 105558.}
+  \publicationItem{Wu, W., Chen, J., \textbf{Li, A.}, Chen, M. H., Starkweather, A., \& Cong, X. (2025). Mechanistic insights into a self-management intervention in young adults with irritable bowel syndrome: A pilot multi-omics study. \textit{Biomedicines, 13}(9), 2102.}
+  \publicationItem{Wu, W., \textbf{Li, A.}, Singh, V., Salner, A., Chen, M. H., Judge, M. P., \& Xu, W. (2025). Pain, fatigue, and associated gene expressions over chemotherapy in patients with colorectal cancer. \textit{PLOS ONE, 20}(6), e0325849.}
+  \publicationItem{Zhao, T., \textbf{Li, A.}, Chang, X., Xu, W., Quinn, T., Chen, J., \& Cong, X. (2025). Sex differences in mothers' own milk and neurodevelopmental outcomes in preterm infants. \textit{Frontiers in Pediatrics, 13}, 1523952.}
+  \publicationItem{McNaboe, R. Q., Kong, Y., Henderson, W. A., Cong, X., \textbf{Li, A.}, Seo, M. H., \& Posada-Quintero, H. F. (2025). Optimizing sensor locations for electrodermal activity monitoring using a wearable belt system. \textit{Journal of Sensor and Actuator Networks, 14}(2), 31.}
+  \publicationItem{Xu, W., \textbf{Li, A.}, Yackel, H. D., Sarta, M. L., Salner, A., \& Judge, M. P. (2024). Dietary consumption patterns in breast cancer survivors: Pilot evaluation of diet, supplements and clinical factors. \textit{European Journal of Oncology Nursing, 72}, 102678.}
+  \publicationItem{Zhao, T., \textbf{Li, A.}, Reese, B., Cong, Q., Corwin, E. J., Taylor, S. N., \ldots\ \& Cong, X. (2024). Association between mitochondrial DNA copy number and neurodevelopmental outcomes among Black and White preterm infants up to two years of age. \textit{Interdisciplinary Nursing Research, 3}(3), 149--156.}
+  \publicationItem{Wang, Y. B., Milkey, A., \textbf{Li, A.}, Chen, M. H., Kuo, L., \& Lewis, P. O. (2023). LoRaD: Marginal likelihood estimation with haste (but no waste). \textit{Systematic Biology, 72}(3), 639--648.}
+\publicationListEnd
+
+\clearpage
+\section{ACCEPTED ARTICLE}
+\publicationListStart
+  \publicationItem{Chen, J., \textbf{Li, A.}, Wu, W., Xu, W., Zhao, T., Starkweather, A. R., Rodriguez, L., Chen, M. H., \& Cong, X. S. (Accepted). Gut microbiota signatures differentiate trajectory-defined response phenotypes and predict self-management outcomes in irritable bowel syndrome. \textit{Frontiers in Microbiomes}.}
+\publicationListEnd
+
+\section{PREPRINTS}
+\publicationListStart
+  \publicationItem{Chen, J., \textbf{Li, A.}, Wu, W., Xu, W., Zhao, T., Starkweather, A. R., \ldots\ \& Cong, X. S. (2025). Machine learning to phenotype pain and predict response to pain interventions among young adults with irritable bowel syndrome. \textit{medRxiv}.}
+  \publicationItem{Milkey, A., Chen, M. H., Wang, Y. B., \textbf{Li, A.}, \& Lewis, P. O. (2025). The sequential multispecies coalescent. \textit{bioRxiv}.}
+\publicationListEnd
+
+\section{SELECTED PRESENTATIONS AND ABSTRACTS}
+\publicationListStart
+  \publicationItem{\textbf{Li, A.} (2026). Sex differences in pain, stress, and omics. Invited Scientific Spotlight, \textit{From Discovery to Impact: Accelerating Women's Health Research Through Science, Policy, and Investment}, Society for Women's Health Research and Women's Health Research at Yale, Yale University, June 15, 2026.}
+  \publicationItem{\textbf{Li, A.} (2022). A new Bayesian approach for analyzing longitudinal data by leveraging multiple historical data sources in the presence of missing data. 6th Eastern Asia Chapter of the International Society for Bayesian Analysis.}
+  \publicationItem{Judge, M., Xu, W., \textbf{Li, A.}, Hayley, Y., Michelle, S., \& Salner, A. (2025). Informing educational outreach in oncology: Evaluation of dietary consumption patterns, supplement consumption, and clinical factors in breast cancer survivors. \textit{Journal of the Academy of Nutrition and Dietetics, 125}(10), A27.}
+  \publicationItem{Zhao, T., \textbf{Li, A.}, Graziano, T., Chen, M. H., Matson, A., \& Cong, X. (2025). Racial disparity in the association between early-life pain/stress exposure and neurodevelopmental outcomes among Black and White preterm infants. ENRS 37th Annual Scientific Sessions, Philadelphia, PA.}
+  \publicationItem{\textbf{Li, A.} \& Graziano, T. (2023). Association of social determinants of health and COVID-19-related behaviors with cervical cancer screening in Hispanic women. \textit{Oncology Nursing Forum, 50}(2), A45--A46.}
+\publicationListEnd
+
+\section{PROFESSIONAL SERVICE}
+\resumeItemListStart
+  \resumeItem{\normalsize{Volunteer, Statistics in Pharmaceuticals, 2024 and 2022; World Meeting of the International Society for Bayesian Analysis, 2021.}}
+  \resumeItem{\normalsize{Committee Member, New England Statistical Society Statathon, 2022; Volunteer, New England Rare Disease Statistics Workshop, 2022.}}
+\resumeItemListEnd
+
+\end{document}

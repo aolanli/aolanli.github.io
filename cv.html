@@ -1,26 +1,25 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>CV</title>
-    <style>
-      body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial; }
-      header { padding: 14px 16px; border-bottom: 1px solid #eee; }
-      .wrap { height: calc(100vh - 52px); }
-      iframe { width: 100%; height: 100%; border: 0; }
-      a { text-decoration: none; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <a href="index.html">← Home</a>
-      &nbsp; | &nbsp;
-      <a href="WebsiteCV20260423.pdf" target="_blank" rel="noopener">Open PDF</a>
-    </header>
+---
+layout: page
+title: CV
+permalink: /cv.html
+---
 
-    <div class="wrap">
-      <iframe src="WebsiteCV20260423.pdf"></iframe>
-    </div>
-  </body>
-</html>
+<p class="page-intro">
+  Curriculum vitae for Aolan Li, Ph.D. Last updated July 2026.
+</p>
+
+<p class="cv-actions">
+  <a class="button" href="{{ '/Aolan_Li_CV.pdf' | relative_url }}">View or download the PDF</a>
+</p>
+
+<div class="cv-frame">
+  <object
+    data="{{ '/Aolan_Li_CV.pdf' | relative_url }}"
+    type="application/pdf"
+    aria-label="Aolan Li curriculum vitae">
+    <p>
+      The embedded PDF could not be displayed.
+      <a href="{{ '/Aolan_Li_CV.pdf' | relative_url }}">Download the CV instead.</a>
+    </p>
+  </object>
+</div>
