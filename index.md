@@ -18,42 +18,12 @@ University of Connecticut. My work connects Bayesian model comparison and
 Monte Carlo computation with longitudinal, multivariate, microbiome, and
 multi-omics applications.
 
-<div class="hero-actions">
-  <a class="button" href="{{ '/research/' | relative_url }}">Explore my research</a>
-  <a class="button button-secondary" href="{{ '/cv.html' | relative_url }}">View CV</a>
-</div>
-
 <div class="profile-links">
   <a href="https://scholar.google.com/citations?user=Ll702C4AAAAJ&amp;hl=en&amp;oi=ao">Google Scholar</a>
   <a href="https://orcid.org/0009-0009-3525-395X">ORCID</a>
   <a href="https://www.linkedin.com/in/aolan-li-606b6825a">LinkedIn</a>
   <a href="https://www.researchgate.net/profile/Aolan-Li-2">ResearchGate</a>
 </div>
-
-</section>
-
-<section class="section-block" markdown="1">
-
-<p class="section-kicker">RESEARCH FOCUS</p>
-
-## Statistical methods grounded in biomedical questions
-
-<div class="card-grid">
-  <article class="card">
-    <h3>Bayesian computation</h3>
-    <p>Marginal-likelihood estimation, Bayesian model comparison, and efficient Monte Carlo methods for complex models.</p>
-  </article>
-  <article class="card">
-    <h3>Longitudinal methods</h3>
-    <p>Repeated-measures and multivariate models, covariance-structure assessment, missing data, and simulation-based evaluation.</p>
-  </article>
-  <article class="card">
-    <h3>Biomedical data science</h3>
-    <p>Reproducible analysis of clinical, microbiome, multi-omics, symptom, and neurodevelopmental data.</p>
-  </article>
-</div>
-
-<p class="section-link"><a href="{{ '/research/' | relative_url }}">Research areas, methods, and selected talks →</a></p>
 
 </section>
 
@@ -65,13 +35,13 @@ multi-omics applications.
 
 <div class="work-list">
   <article class="work-item">
-    <div class="work-meta">FIRST-AUTHOR METHODS PAPER · 2026</div>
+    <div class="work-meta">BAYESIAN COMPUTATION</div>
     <h3>A comparison of Monte Carlo based marginal likelihood estimators</h3>
     <p>A comparative review of computational strategies for Bayesian model evidence and model comparison.</p>
     <a href="https://doi.org/10.1002/wics.70058">Read the paper →</a>
   </article>
   <article class="work-item">
-    <div class="work-meta">BAYESIAN COMPUTATION · 2023</div>
+    <div class="work-meta">BAYESIAN COMPUTATION</div>
     <h3>LoRaD: Marginal likelihood estimation with haste (but no waste)</h3>
     <p>A collaborative contribution to efficient marginal-likelihood estimation, with openly archived supporting data.</p>
     <a href="https://doi.org/10.1093/sysbio/syad007">Paper</a>
@@ -79,10 +49,10 @@ multi-omics applications.
     <a href="https://doi.org/10.5061/dryad.pg4f4qrrw">Data</a>
   </article>
   <article class="work-item">
-    <div class="work-meta">MULTI-OMICS APPLICATION · 2025</div>
-    <h3>Mechanistic insights into a self-management intervention</h3>
-    <p>A pilot multi-omics study of a self-management intervention in young adults with irritable bowel syndrome.</p>
-    <a href="https://doi.org/10.3390/biomedicines13092102">Read the paper →</a>
+    <div class="work-meta">LONGITUDINAL ANALYSIS</div>
+    <h3>Sex differences in mothers' own milk and neurodevelopmental outcomes in preterm infants</h3>
+    <p>A longitudinal analysis of mothers' own milk exposure and neurodevelopmental outcomes among preterm infants.</p>
+    <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=Ll702C4AAAAJ&amp;citation_for_view=Ll702C4AAAAJ:Y0pCki6q_DkC">View on Google Scholar →</a>
   </article>
 </div>
 
