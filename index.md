@@ -34,20 +34,33 @@ multi-omics applications.
 <div class="work-list">
   <article class="work-item">
     <div class="work-meta">BAYESIAN COMPUTATION</div>
-    <h3>A comparison of Monte Carlo based marginal likelihood estimators</h3>
-    <a href="https://doi.org/10.1002/wics.70058">Read the paper →</a>
+    <div class="work-paper">
+      <h3>A comparison of Monte Carlo based marginal likelihood estimators</h3>
+      <p><a href="https://doi.org/10.1002/wics.70058">Read the paper →</a></p>
+    </div>
+    <div class="work-paper">
+      <h3>LoRaD: Marginal likelihood estimation with haste (but no waste)</h3>
+      <p>
+        <a href="https://doi.org/10.1093/sysbio/syad007">Paper</a>
+        <span aria-hidden="true"> · </span>
+        <a href="https://doi.org/10.5061/dryad.pg4f4qrrw">Data</a>
+      </p>
+    </div>
   </article>
   <article class="work-item">
-    <div class="work-meta">BAYESIAN COMPUTATION</div>
-    <h3>LoRaD: Marginal likelihood estimation with haste (but no waste)</h3>
-    <a href="https://doi.org/10.1093/sysbio/syad007">Paper</a>
-    <span aria-hidden="true"> · </span>
-    <a href="https://doi.org/10.5061/dryad.pg4f4qrrw">Data</a>
-  </article>
-  <article class="work-item">
-    <div class="work-meta">LONGITUDINAL ANALYSIS</div>
-    <h3>Sex differences in mothers' own milk and neurodevelopmental outcomes in preterm infants</h3>
-    <a href="https://doi.org/10.3389/fped.2025.1523952">Read the paper →</a>
+    <div class="work-meta">BIOMEDICAL RESEARCH</div>
+    <div class="work-paper">
+      <h3>Mediating effect of self-efficacy on the relationships among patient-provider partnership, pain, and quality of life in individuals with cancer</h3>
+      <p><a href="https://doi.org/10.1188/25.ONF.448-459">Read the paper →</a></p>
+    </div>
+    <div class="work-paper">
+      <h3>Gut microbiota signatures differentiate trajectory-defined response phenotypes and predict self-management outcomes in irritable bowel syndrome</h3>
+      <p><a href="https://doi.org/10.3389/frmbi.2026.1884540">Read the paper →</a></p>
+    </div>
+    <div class="work-paper">
+      <h3>The longitudinal impact of early relational contact in the NICU and post-discharge childcare quality on preterm infants' behavioural development up to 18–24 months of corrected age</h3>
+      <p><a href="https://doi.org/10.1002/icd.70090">Read the paper →</a></p>
+    </div>
   </article>
 </div>
 

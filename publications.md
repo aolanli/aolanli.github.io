@@ -5,20 +5,15 @@ permalink: /publications/
 ---
 
 <p class="page-intro">
-Peer-reviewed articles, accepted work, preprints, conference publications, and
+Peer-reviewed articles, preprints, conference publications, and
 open research data.
 </p>
 
-<p class="publication-updated">Last updated July 28, 2026.</p>
-
-### Accepted
-
-1. <span class="status-badge">Accepted</span> Chen, J., **Li, A.**, Wu, W., Xu, W., Zhao, T., Starkweather, A. R., Rodriguez, L., Chen, M. H., & Cong, X. S. (2026). Gut microbiota signatures differentiate trajectory-defined response phenotypes and predict self-management outcomes in irritable bowel syndrome. *Frontiers in Microbiomes*.<br>
-[[Publisher record]](https://www.frontiersin.org/journals/microbiomes/articles/10.3389/frmbi.2026.1884540/abstract) [[Preprint]](https://doi.org/10.64898/2026.05.18.26353470)
-
----
+<p class="publication-updated">Last updated August 1, 2026.</p>
 
 ### Journal Articles
+
+1. Chen, J., **Li, A.**, Wu, W., Xu, W., Zhao, T., Starkweather, A. R., Rodriguez, L., Chen, M. H., & Cong, X. S. (2026). Gut microbiota signatures differentiate trajectory-defined response phenotypes and predict self-management outcomes in irritable bowel syndrome. *Frontiers in Microbiomes, 5*, 1884540. [[DOI]](https://doi.org/10.3389/frmbi.2026.1884540)
 
 1. Zhao, T., **Li, A.**, Chen, M. H., Matson, A., & Cong, X. S. (2026). Early-life painful and stressful exposures and neurodevelopment in preterm infants. *Frontiers in Pediatrics 14*, 1820878. [[DOI]](https://doi.org/10.3389/fped.2026.1820878)
 

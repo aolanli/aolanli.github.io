@@ -163,6 +163,14 @@ a:focus-visible {
   padding: 25px 0;
 }
 
+.work-paper + .work-paper {
+  margin-top: 22px;
+}
+
+.work-paper p {
+  margin: 0;
+}
+
 .timeline-item {
   display: grid;
   gap: 28px;
