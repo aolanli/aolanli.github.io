@@ -9,7 +9,7 @@ Peer-reviewed articles, preprints, conference publications, and
 open research data.
 </p>
 
-<p class="publication-updated">Last updated August 1, 2026.</p>
+<p class="publication-updated">Last updated August 2, 2026.</p>
 
 ### Journal Articles
 
@@ -66,6 +66,8 @@ open research data.
 ---
 
 ### Conference Publications / Abstracts
+
+1. <span class="status-badge">Accepted</span> Zhao, T., Dostova, Y. A., **Li, A.**, Crespo, J., Potts-Thompson, S., Matute-Arcos, E., Prescott, L., Tsai, T., & Taylor, J. Y. (2026). Expanding the role of nurse practitioners in reproductive endocrinology and infertility: Outcomes from an NP-led fertility practice and comparison with U.S. national benchmarks. *Foundation for Reproductive Medicine Conference (FRMC 2026)*, New York, NY, December 4–6, 2026. [[Conference]](https://www.foundationforreprodmed.com/fertilityconferencenewyorknewyork)
 
 1. Judge, M., Xu, W., **Li, A.**, Hayley, Y., Michelle, S., & Salner, A. (2025). Informing Educational Outreach in Oncology: Evaluation of Dietary Consumption Patterns, Supplement Consumption and Clinical Factors in Breast Cancer Survivors. *Journal of the Academy of Nutrition and Dietetics, 125*(10), A27. [[DOI]](https://doi.org/10.1016/j.jand.2025.06.083)
 
