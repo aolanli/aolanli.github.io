@@ -9,7 +9,7 @@ Peer-reviewed articles, preprints, conference publications, and
 open research data.
 </p>
 
-<p class="publication-updated">Last updated August 2, 2026.</p>
+<p class="publication-updated">Last updated September 21, 2026.</p>
 
 ### Journal Articles
 
@@ -56,6 +56,9 @@ open research data.
 ---
 
 ### Preprints
+
+1. Wu, W., You, E., **Li, A.**, Chen, J., Colloca, L., Kiley, S., Faremi, B., Jimenez Wong, C., Toribio, J. M., Mahoney, K. J., Posada-Quintero, H. F., Chen, M.-H., Burns, D. S., & Cong, X. (2026). Clinical and mechanistic responses to a music-based intervention for pain in adults with irritable bowel syndrome: Protocol for a single-arm pilot study. *medRxiv*. Preprint, posted September 17, 2026.<br>
+[[DOI]](https://doi.org/10.64898/2026.09.11.26362754)
 
 1. Chen, J., **Li, A.**, Wu, W., Xu, W., Zhao, T., Starkweather, A. R., … & Cong, X. S. (2025). Machine learning to phenotype pain and predict response to pain interventions among young adults with irritable bowel syndrome. *medRxiv*.<br>
 [[DOI]](https://doi.org/10.1101/2025.10.07.25337516)
